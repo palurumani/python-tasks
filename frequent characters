@@ -1,0 +1,8 @@
+str1 = "Mississippi"
+freq = {}
+for i in str1:
+    if i in freq:
+       freq[i]=i+1
+    else
+       freq[i]=1
+print ("Count of all characters in Mississippi is :\n " +  str(freq))      
