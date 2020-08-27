@@ -1,0 +1,4 @@
+list = [12, 14, -95, 3, 70, 79] 
+fo num in list1:
+    if num >= 0: 
+       print(num, end = " ") 
